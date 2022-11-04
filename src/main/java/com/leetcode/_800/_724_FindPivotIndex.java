@@ -1,4 +1,4 @@
-package com.leetcode._700;
+package com.leetcode._800;
 
 public class _724_FindPivotIndex {
 

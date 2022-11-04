@@ -1,4 +1,4 @@
-package com.leetcode._800;
+package com.leetcode._900;
 
 import com.leetcode.utils.ListNode;
 
