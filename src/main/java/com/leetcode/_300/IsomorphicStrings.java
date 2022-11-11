@@ -3,7 +3,8 @@ package com.leetcode._300;
 import java.util.HashMap;
 import java.util.Map;
 
-public class _205_IsomorphicStrings {
+// Problem #205
+public class IsomorphicStrings {
     private static String transformString(String s) {
         Map<Character, Integer> indexMapping = new HashMap<>();
         StringBuilder builder = new StringBuilder();

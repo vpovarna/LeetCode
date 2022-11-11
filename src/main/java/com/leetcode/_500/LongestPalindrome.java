@@ -2,7 +2,8 @@ package com.leetcode._500;
 
 import java.util.HashSet;
 
-public class _409_LongestPalindrome {
+// Problem #409
+public class LongestPalindrome {
 
     public static int longestPalindrome(String s) {
         var count = 0;

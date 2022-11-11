@@ -1,6 +1,7 @@
 package com.leetcode._200;
 
-public class _121_BestTimeToBuyAndSellStock {
+// Problem #121
+public class BestTimeToBuyAndSellStock {
     public static int maxProfit(int[] prices) {
         var maxProfit = 0;
         var minValue = Integer.MAX_VALUE;

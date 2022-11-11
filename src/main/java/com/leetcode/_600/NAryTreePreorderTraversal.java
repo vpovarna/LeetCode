@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 import com.leetcode.utils.Node;
 
-public class _589_NAryTreePreorderTraversal {
+// Problem #589
+public class NAryTreePreorderTraversal {
 
     // recursive solution
     public List<Integer> preorder(Node root) {

@@ -4,7 +4,8 @@ import com.leetcode.utils.ListNode;
 
 import static com.leetcode.utils.ListNodeUtils.printListNode;
 
-public class _800_MiddleOfTheLinkedList {
+// Problem #800
+public class MiddleOfTheLinkedList {
     public static ListNode middleNode(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;

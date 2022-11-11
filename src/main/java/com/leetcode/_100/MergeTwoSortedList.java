@@ -2,7 +2,8 @@ package com.leetcode._100;
 
 import com.leetcode.utils.ListNode;
 
-public class _21_MergeTwoSortedList {
+// Problem #21
+public class MergeTwoSortedList {
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode dummy = new ListNode();

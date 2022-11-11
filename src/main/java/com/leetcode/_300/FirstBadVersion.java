@@ -2,7 +2,8 @@ package com.leetcode._300;
 
 import java.util.Map;
 
-public class _278_FirstBadVersion {
+// Problem #278
+public class FirstBadVersion {
 
     // Using recursion
     public int firstBadVersion(int n) {
@@ -42,7 +43,7 @@ public class _278_FirstBadVersion {
     }
 
     public static void main(String[] args) {
-        _278_FirstBadVersion firstBadVersion = new _278_FirstBadVersion();
+        FirstBadVersion firstBadVersion = new FirstBadVersion();
         System.out.println(firstBadVersion.firstBadVersion(5));
     }
 }

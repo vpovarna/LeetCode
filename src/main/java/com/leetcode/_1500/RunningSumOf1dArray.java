@@ -2,7 +2,8 @@ package com.leetcode._1500;
 
 import java.util.Arrays;
 
-public class _1480_RunningSumOf1dArray {
+// Problem #1480
+public class RunningSumOf1dArray {
 
     public static int[] runningSum(int[] nums) {
         for (int i = 1; i <= nums.length - 1; i++) {

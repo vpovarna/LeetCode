@@ -1,6 +1,7 @@
 package com.leetcode._100;
 
-public class _79_WordSearch {
+// Problem #79
+public class WordSearch {
     public boolean exist(char[][] board, String word) {
         int rowNr = board.length;
         int columnNr = board[0].length;

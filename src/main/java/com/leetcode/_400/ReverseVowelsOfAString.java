@@ -2,7 +2,8 @@ package com.leetcode._400;
 
 import java.util.Set;
 
-public class _354_ReverseVowelsOfAString {
+// Problem #354
+public class ReverseVowelsOfAString {
     public String reverseVowels(String s) {
         final Set<Character> vowelsSet = Set.of(
                 'a', 'e', 'i', 'o', 'u', 'A', 'E',

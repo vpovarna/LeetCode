@@ -1,6 +1,7 @@
 package com.leetcode._800;
 
-public class _724_FindPivotIndex {
+// Problem #724
+public class FindPivotIndex {
 
     public int pivotIndex(int[] nums) {
         int totalSum = 0;

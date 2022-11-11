@@ -2,7 +2,8 @@ package com.leetcode._200;
 
 import com.leetcode.utils.ListNode;
 
-public class _206_ReverseLinkedList {
+// Problem #206
+public class ReverseLinkedList {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode cur = head;
